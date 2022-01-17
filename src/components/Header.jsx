@@ -89,7 +89,7 @@ const Header = (props) => {
                   </td>
                 </tr>
                 <tr>
-                  <td>Sub Total</td>
+                  <td> Total</td>
                   <td>:</td>
                   <td>
                     <strong>{cartTotal}</strong>
